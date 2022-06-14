@@ -79,3 +79,11 @@ select {
   border-radius: 10px;
   border: none;
 }
+h1,
+p,
+label,
+legend,
+h2,
+address {
+  font-family: "Red Hat Display", sans-serif;
+}
